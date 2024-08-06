@@ -56,7 +56,7 @@ I'm a passionate Full Stack Developer from earth. I love to explore new technolo
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hongyi-liu-629329a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/hongyi-liu-629329a8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/Leo_code"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://dev.to/leo_hon_7e2b6d2daa7115653"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"></a>
 </p>
