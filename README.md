@@ -12,8 +12,8 @@
 
 I'm a passionate Full Stack Developer from earth. I love to explore new technologies and leverage them to solve real-life problems.
 
-- 🔭 I'm currently working on CMS_LC
-- 🌱 I'm currently learning NextJs NestJs strapi
+- 🔭 I'm currently working on deepseekmine and deekseek quick start.
+- 🌱 I'm currently work on Python langchain langraph NextJs NestJs strapi
 - 👯 I'm looking to collaborate on Open Source Projects
 - 💬 Ask me about anything tech related, I am happy to help
 - 📫 How to reach me: libertyleo123@163.com
